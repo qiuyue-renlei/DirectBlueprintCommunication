@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/unreal/DirectBlueprintCommunication/DirectBlueprint/Content/BP_LightSwitch.uasset",
+				"D:/unreal/DirectBlueprintCommunication/DirectBlueprint/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/TL/F3HL5RBVEZJY8O1137OJ5Z.uasset",
+				"D:/unreal/DirectBlueprintCommunication/DirectBlueprint/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/SL/A33MBP9JCUG03E5KEO6AOE.uasset"
+			]
+		}
+	]
+}
